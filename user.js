@@ -4,7 +4,8 @@ let cards = [
     //  ["Your Name", "Image URL(./img/username.png)", "Bio", "Your Github Link"],
     //  Bio should no longer than 50 characters, avoid using quotes(") to guarantee the format remains the same.
 
-    
+
+
     ["Your Name", "./img/username.png", "Your Bio", "https://github.com/letskhabar"],
     ["Your Name", "./img/username.png", "Your Bio", "https://github.com/letskhabar"],
     ["Muteen Kundangar", "./img/web3.jpg", "Obviously a IT student", "https://github.com/letskhabar"],
@@ -13,6 +14,7 @@ let cards = [
     ["Coder nibba", "./img/codernibba.gif", "In relationship with codernibbi", "https://github.com/codernibba"],
     ["Vaibhav Goel", "./img/GoelVaibhav009.jpg", "Mobile & Web Developer", "https://github.com/GoelVaibhav009"],
     ["Avinash Kumar Jha", "./img/avinash.jpg", "Student", "https://github.com/avinashjha11"],
+    ["Sovam Pradhan", "./img/sovam.jpg", "Full Stack Web Developer", "https://github.com/Sovam-coder"],
     ["Prithviraj Biswas", "./img/prithvirajbytes.jpg", "CoDeLiKeHeLl", "https://github.com/prithvirajbytes"],
     ["Vikas shah", "./img/vik.jpg", "Student", "https://github.com/vikasah0"],
     ["Kory Freese", "./img/callmekory.png", "Student", "https://github.com/callmekory"],
@@ -37,13 +39,29 @@ let cards = [
     ["Chirag Jain", "./img/ChiragJain123.png", "A Passionate Coder who wants to explore each and every thing related to tech.", "https://github.com/ChiragJain123"],
     ["Tio Tobing","./img/tiotobing.png", "Today is Technology", "https://github.com/tiotobing"],
     ["Azri Akmal Kurniawan", "./img/azriakmalk.jpg", "Web Developer and Software Engineering", "https://github.com/azriakmalk"],
+    ["Simone Puhl", "./img/username.png", "Front end / Web Developer, Cacti & Cat mom who loves cheeseburgers", "https://github.com/persimone"],
     ["Mohd Fahad Khan", "./img/fahad.jpg", "Full Stack Software Developer", "https://github.com/codevfahad"],
     ["Carolline Souza", "./img/carolladss.jpg", "Front-End Developer Student", "https://github.com/carolladss"],
     ["Cormac Krum","./img/cormacKrum.jpg","You Know Who I Am","https://github.com/CormacKrum"],
+    ["Andrean Novan","./img/andreanz22.jpg","Web Dev","https://github.com/andreanz22"],
+    ["Lucky Sopyantoro","./img/luckysopyantoro.jpg","Android Developer","https://github.com/luckysopyantoro"],
+    ["Prashant Pandey","./img/prashant-pandey.JPG","Software Engineer","https://github.com/Prashant-Pandey"],
+    ["Fifuhoobs","./img/fifuhoobs.png","Student","https://github.com/nikhilsourav"],
+    ["Ashutosh Joshi", "./img/ashutosh pic.jpg","Web Devlopment","https://github.com/iAshutosh-joshi"],
+    ["Sonali", "./img/Sonali.jpeg","Web Developer","https://github.com/sonali12920"],
+    ["Simone Puhl", "./img/username.png", "Front end / Web Developer, Cacti & Cat mom who loves cheeseburgers", "https://github.com/persimone"],
+    ["Reza Alamsyah", "./img/Reas-19.png", "Android developer, Nothing special on me", "https://github.com/Reas-19"],
+    ["Om Sinha", "./img/ProfilePic.png", "Just starting open source", "https://github.com/DeathcallXD"],
+    ["Kuroyza", "./img/kuroyza.jpg", "A full stack developer who enjoys watching anime", "https://github.com/kuroyza"],
+    ["Felipe Rodrigues", "Image URL(./img/feliperodrigues.png)", "Student", "https://github.com/felipprodrigues"],
+    ["Muhammad ALiyul Murtadlo", "./img/username.png", "Student", "https://github.com/mmdiyul"],
+    ["Kashish Goel", "./img/kashish-goel.jpg", "Student", "https://github.com/kashish-goel"],
+    ["Arslan Siddique","./img/ARSHLAN.jpg", "Student", "https://github.com/ArshlanSiddique"],
+    ["Arham Aalam","./img/Arham-Aalam.jpg", "Developer", "https://github.com/Arham-Aalam"],
+  
+  
+    // Don't Forget to add comma in Last
 
-    
-
-// Don't Forget to add comma in Last
 ]
 
 
